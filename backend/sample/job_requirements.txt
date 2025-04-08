@@ -1,0 +1,33 @@
+Senior Software Engineer Position
+
+Required Skills:
+- 5+ years of experience in full-stack development
+- Strong proficiency in React, Node.js, and TypeScript
+- Experience with cloud platforms (AWS/GCP)
+- Knowledge of microservices architecture
+- Understanding of CI/CD pipelines
+
+Responsibilities:
+- Design and implement scalable solutions
+- Lead technical discussions and code reviews
+- Mentor junior developers
+- Write clean, maintainable code
+- Collaborate with cross-functional teams
+
+Nice to Have:
+- Experience with GraphQL
+- Knowledge of containerization (Docker)
+- Understanding of security best practices
+- Open source contributions
+- Public speaking experience
+
+Education:
+- Bachelor's degree in Computer Science or related field
+- Relevant certifications are a plus
+
+Work Environment:
+- Remote-first culture
+- Flexible working hours
+- Regular team meetings
+- Continuous learning opportunities
+- Competitive compensation package 
